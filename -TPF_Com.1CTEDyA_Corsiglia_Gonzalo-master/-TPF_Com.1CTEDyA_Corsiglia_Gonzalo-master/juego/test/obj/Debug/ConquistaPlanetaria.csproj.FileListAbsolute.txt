@@ -1,0 +1,47 @@
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\test.exe.config
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\test.exe
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\test.pdb
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.dll
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.pdb
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\obj\Debug\ConquistaPlanetaria.csprojResolveAssemblyReference.cache
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\obj\Debug\test.juego.Form1.resources
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\obj\Debug\ConquistaPlanetaria.csproj.GenerateResource.Cache
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\obj\Debug\test.exe
+C:\Users\Peceta\OneDrive\Desktop\Proyecto Complejidad\juego\test\obj\Debug\test.pdb
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\test.exe.config
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\test.exe
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\test.pdb
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.dll
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.pdb
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\obj\Debug\ConquistaPlanetaria.csprojResolveAssemblyReference.cache
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\obj\Debug\test.juego.Form1.resources
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\obj\Debug\ConquistaPlanetaria.csproj.GenerateResource.Cache
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\obj\Debug\test.exe
+C:\Users\Peceta\OneDrive\Desktop\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo\juego\test\obj\Debug\test.pdb
+C:\Users\gonzalo.corsiglia\Desktop\COSASUNI\Complejidad Temporal, Estructura De Datos y Algoritmos\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo-master\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo-master\juego\test\obj\Debug\ConquistaPlanetaria.csproj.AssemblyReference.cache
+C:\Users\gonzalo.corsiglia\Desktop\COSASUNI\Complejidad Temporal, Estructura De Datos y Algoritmos\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo-master\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo-master\juego\test\obj\Debug\test.exe
+C:\Users\gonzalo.corsiglia\Desktop\COSASUNI\Complejidad Temporal, Estructura De Datos y Algoritmos\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo-master\-TPF_Com.1CTEDyA_Corsiglia_Gonzalo-master\juego\test\obj\Debug\test.pdb
